@@ -1,17 +1,6 @@
-# flutter_Brista Animation
+# BaristaCoffeeUI CHallenge
 
-![Barista](assets/coffee/logo2.png)
+## Mock Video
 
-## Getting Started
+[![Demo Video](https://img.youtube.com/vi/eQ1qewsAom8/0.jpg)](https://youtu.be/eQ1qewsAom8)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# baristaCoffeeUI" 
